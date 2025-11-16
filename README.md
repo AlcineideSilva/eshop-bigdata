@@ -43,9 +43,11 @@ A aplicação demonstra:
 
 docker-compose up --build
 
-## Acessar localmente
+## Para acessar
 
 http://localhost:8501
+ou
+https://verbose-fishstick-g4jqrvj77rq52q49-8501.app.github.dev/
 
 
 
